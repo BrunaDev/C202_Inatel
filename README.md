@@ -11,4 +11,4 @@ Nele contém códigos que utilizam:
 - Arquivos;
 - Entre outros.
 
-####A pasta LAB é referente aos códigos feitos na aula de laboratório, enquanto a pasta SONED é referente aos códigos feitos na aula do professor do curso.
+###### A pasta LAB é referente aos códigos feitos na aula de laboratório, enquanto a pasta SONED é referente aos códigos feitos na aula do professor do curso.
