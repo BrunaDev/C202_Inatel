@@ -1,1 +1,0 @@
-A pasta LAB é referente ao códigod feito na aula de laboratório, equanto a pasta SONED é referente aos códigos feitos na aula do professor do curso.
