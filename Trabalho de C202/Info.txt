@@ -1,0 +1,1 @@
+Foxtel é um programa que utiliza alguns dos conceitos citados no READ.ME, em que é uma simulação de um sistema de bilhetagem, onde você entra com alguns dados de determinados cliente e o código fornece o valor que ele deve pagar pelos serviços prestados.
